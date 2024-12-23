@@ -1,0 +1,6 @@
+config = {
+namescript = "Test Hub",--Tên Script
+logoscript = "80800684172419",
+tacgia = "Nan meo Dai"--Tên Tắc Giả
+}
+laodstring(game:HttpGet("https://raw.githubusercontent.com/daoduynam408/Scriptnammeo/refs/heads/main/hạnđ.jsjsjjs"))()
